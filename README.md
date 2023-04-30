@@ -1,2 +1,2 @@
 # dance-portfolio
-html project
+html project - paused for now
